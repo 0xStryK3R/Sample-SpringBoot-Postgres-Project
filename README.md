@@ -1,4 +1,4 @@
-## Sample Sprong Boot Project Using Postgres DB
+## Sample Spring Boot Project Using Postgres DB
 
 1. Database Setup (Postgres):
       ```sql
