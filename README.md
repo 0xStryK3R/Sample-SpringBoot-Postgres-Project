@@ -1,7 +1,7 @@
 ## Sample Sprong Boot Project Using Postgres DB
 
-1. Database Setup:
-      ```postgresql
+1. Database Setup (Postgres):
+      ```sql
       CREATE DATABASE shopme;
       CREATE USER shopmeuser WITH ENCRYPTED PASSWORD 'shopmepass';
       GRANT ALL PRIVILEGES ON DATABASE shopme TO shopmeuser;
