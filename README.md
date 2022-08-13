@@ -1,4 +1,4 @@
-## Sample Spring Boot Project Using Postgres DB
+## Sample Spring Boot Project Using Postgres DB | ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=0xStryK3R.Sample-SpringBoot-Postgres-Project) 
 
 1. Database Setup (Postgres):
       ```sql
